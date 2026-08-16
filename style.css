@@ -14,12 +14,14 @@ main {
 h1 {
     color: white;
     text-align: center;
+    text-shadow: 2px 4px 4px #0000005e;
 }
 img#me {
     display: block;
     margin: auto;
     border: 5px solid black;
     border-radius: 50%;
+    box-shadow: 0px 6px 8px 1px #0000005c;
 }
 h2 {
     color: white;
